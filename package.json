@@ -1,5 +1,5 @@
 {
-  "name": "md-tag",
+  "name": "markdown-template-tag",
   "version": "0.0.1",
   "description": "Markdown tagged template literal",
   "main": "index.js",
